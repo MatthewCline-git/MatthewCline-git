@@ -6,7 +6,7 @@ I'm Matt. I like writing code that removes friction between me/my friends and th
 
 ### 🤖 Higher Pleasures Bot
 
-_Python • Typescript _ Prompt Engineering • Telegram • Google Sheets\*
+_Python • TypeScript • Prompt Engineering • Telegram • Google Sheets_
 
 Backend:
 
