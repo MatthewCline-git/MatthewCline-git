@@ -2,15 +2,24 @@
 
 I'm Matt. I like writing code that removes friction between me/my friends and the things we like to do. Here is what I've been up to lately.
 
-## 🌟 Featured Projects
 
-### 🤖 Higher Pleasures Bot
+
+### roost.nyc
+
+_TypeScript • Next.js • Gemini_
+
+Automated apartment tour scheduler. Roost uses user preferences and biographic information to automate outbound
+to the brokers of listings that meet user criteria. Uses search-enabled Gemini to enrich broker names with contact info.
+
+Check it out [here](https://roost.nyc)
+
+### Higher Pleasures
 
 _Python • TypeScript • Prompt Engineering • Telegram • Google Sheets_
 
 Backend:
 
-A Telegram bot that leverages LLMs to intelligently categorize activities. Message the bot how you spent your time in plain English, and it will call OpenAI's GPT-3.5 Turbo API with a carefully engineered prompt to extract duration and activity information from your message and log it in Google Sheets. A friend and I are using it to track our time management in 2025 in an effort to substitute creativity for doomscrolling.
+A Telegram bot that leverages LLMs to categorize activities. Message the bot how you spent your time in plain English, and it will call OpenAI's GPT-3.5 Turbo API with a carefully engineered prompt to extract duration and activity information from your message and log it in Google Sheets. A friend and I are using it to track our time management in 2025 in an effort to substitute creativity for doomscrolling.
 
 [View Project →](https://github.com/MatthewCline-git/higher-pleasures)
 
@@ -22,16 +31,7 @@ soon enough.
 
 [View Project →](https://github.com/MatthewCline-git/higher-pleasures-frontend)
 
-### 🚇 NYC Subway Times API
-
-_Python • FastAPI • GTFS (General Transit Feed Specification)_
-
-A REST API providing real-time NYC subway arrival data and route information. Features smart station name matching, a custom exception hierarchy, and Docker deployment support. I feed this to a display in my apartment so I can see when the next train is at my stop
-without having to pull out my phone.
-
-[View Project →](https://github.com/MatthewCline-git/train_app)
-
-### 🎟️ Resy Reservation Assistant
+### Resy Reservation Assistant
 
 _Rust • API Reverse Engineering • Async Programming_
 
