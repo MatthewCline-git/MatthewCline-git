@@ -1,10 +1,32 @@
 # Howdy pard'ner 🤠
 
-I'm Matt. I like writing code that removes friction between me/my friends and the things we like to do. Here is what I've been up to lately.
+I'm Matt. I'm the founding engineer at Drumbeat, a political tech startup. I like writing code that removes friction between me/my friends and the things we like to do. Here is what I've been up to lately.
 
+### hellodrumbeat.com
 
+_TypeScript • Postgres_
 
-### roost.nyc
+Political social media content marketplace. Moves [confidential, but substantial] USD per month from 501c3s and 4s to short form creators. Widely used, widely beloved, revenue generative, never breaks :)
+
+Built the whole thing from scratch. It is my brainchild. 
+
+Check it out [here](hellodrumbeat.com)
+
+### drumbeatugc.com
+
+_TypeScript • Postgres_
+
+Spin-off of the above for Drumbeat's UGC operation
+
+Check it out [here](drumbeatugc.com)
+
+### seateasy.app
+
+_TypeScript • Agents_
+
+A web UI for my resy api (below). Also agentic. Text it at +1 (606) 224-0078
+
+### roost.nyc (decommed)
 
 _TypeScript • Next.js • Gemini_
 
