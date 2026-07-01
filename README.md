@@ -10,7 +10,7 @@ Political social media content marketplace. Moves [confidential, but substantial
 
 Built the whole thing from scratch. It is my brainchild. 
 
-Check it out [here](hellodrumbeat.com)
+Check it out [here](https://hellodrumbeat.com)
 
 ### drumbeatugc.com
 
@@ -18,13 +18,15 @@ _TypeScript • Postgres_
 
 Spin-off of the above for Drumbeat's UGC operation
 
-Check it out [here](drumbeatugc.com)
+Check it out [here](https://drumbeatugc.com)
 
-### seateasy.app
+### SeatEasy
 
 _TypeScript • Agents_
 
 A web UI for my resy api (below). Also agentic. Text it at +1 (606) 224-0078
+
+Check out the site [here](https://seateasy.app)
 
 ### roost.nyc (decommed)
 
